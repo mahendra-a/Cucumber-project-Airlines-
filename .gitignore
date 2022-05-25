@@ -1,0 +1,15 @@
+/target/
+/shelf/
+/workspace.xml
+.idea/*
+target/*
+*.log
+.classpath
+.project
+.settings\*
+*.class
+out/*
+test-output/*
+*.iml
+
+/bin/
